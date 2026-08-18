@@ -7,4 +7,4 @@ function tour()
 }
 
 
-const distanc = 1800 ; 
+const distance = 1800 ; 
